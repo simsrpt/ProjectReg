@@ -1,0 +1,30 @@
+.wave {
+    position: fixed;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.img img {
+    width: 500px;
+}
+
+.avatar {
+    width: 30%;
+}
+
+.btn btn-primary {
+    margin-top: 1;
+}
+
+.fas.fa-user {
+    margin-left: 100;
+}
